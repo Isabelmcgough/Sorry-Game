@@ -14,6 +14,7 @@ public class Board extends JFrame{
    }
    
    public static Board getBoard(){
+      //I edited this thing! :)
       return board;
    }
 
